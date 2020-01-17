@@ -1,0 +1,11 @@
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Em Buenaventura\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
